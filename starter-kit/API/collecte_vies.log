@@ -1,0 +1,697 @@
+INFO:root:Début de la collecte
+INFO:root:Durée de l'appel : 3.058536
+INFO:root:Code HTTP: 200
+INFO:root:Durée de l'appel : 0.320053
+INFO:root:Code HTTP: 200
+INFO:root:Fin de la collecte
+INFO:root:Début de la collecte
+INFO:root:Numéro déjà vérifié : DK28547277
+INFO:root:Numéro déjà vérifié : PT244701962
+INFO:root:Durée de l'appel pour PT450308413 : 0.532086 secondes
+INFO:root:Code HTTP pour PT450308413 : 200
+INFO:root:Durée de l'appel pour DK50549151 : 7.306413 secondes
+INFO:root:Code HTTP pour DK50549151 : 200
+ERROR:root:Erreur VIES pour DK50549151 : VALID
+INFO:root:Durée de l'appel pour FR00209754542 : 0.15086 secondes
+INFO:root:Code HTTP pour FR00209754542 : 200
+ERROR:root:Erreur VIES pour FR00209754542 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour NL124917823B86 : 0.987205 secondes
+INFO:root:Code HTTP pour NL124917823B86 : 200
+INFO:root:Durée de l'appel pour PT613111575 : 0.29976 secondes
+INFO:root:Code HTTP pour PT613111575 : 200
+INFO:root:Durée de l'appel pour FI27000844 : 0.454718 secondes
+INFO:root:Code HTTP pour FI27000844 : 200
+ERROR:root:Erreur VIES pour FI27000844 : VALID
+INFO:root:Durée de l'appel pour SE719592036301 : 3.265575 secondes
+INFO:root:Code HTTP pour SE719592036301 : 200
+INFO:root:Durée de l'appel pour BE1362618782 : 3.876009 secondes
+INFO:root:Code HTTP pour BE1362618782 : 200
+INFO:root:Durée de l'appel pour SE166457363901 : 1.86453 secondes
+INFO:root:Code HTTP pour SE166457363901 : 200
+INFO:root:Durée de l'appel pour FR88193062003 : 0.149249 secondes
+INFO:root:Code HTTP pour FR88193062003 : 200
+ERROR:root:Erreur VIES pour FR88193062003 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR89874852564 : 0.78062 secondes
+INFO:root:Code HTTP pour FR89874852564 : 200
+ERROR:root:Erreur VIES pour FR89874852564 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FI98757502 : 1.959263 secondes
+INFO:root:Code HTTP pour FI98757502 : 200
+INFO:root:Durée de l'appel pour PL2079928678 : 1.735911 secondes
+INFO:root:Code HTTP pour PL2079928678 : 200
+INFO:root:Durée de l'appel pour PL8719507731 : 2.160835 secondes
+INFO:root:Code HTTP pour PL8719507731 : 200
+INFO:root:Durée de l'appel pour LU17062613 : 2.892024 secondes
+INFO:root:Code HTTP pour LU17062613 : 200
+INFO:root:Durée de l'appel pour PT451244796 : 0.925548 secondes
+INFO:root:Code HTTP pour PT451244796 : 200
+INFO:root:Durée de l'appel pour PL6040358722 : 0.289221 secondes
+INFO:root:Code HTTP pour PL6040358722 : 200
+INFO:root:Durée de l'appel pour NL743677031B50 : 0.464949 secondes
+INFO:root:Code HTTP pour NL743677031B50 : 200
+INFO:root:Durée de l'appel pour PL7706776865 : 0.258949 secondes
+INFO:root:Code HTTP pour PL7706776865 : 200
+INFO:root:Durée de l'appel pour NL991494520B54 : 0.309515 secondes
+INFO:root:Code HTTP pour NL991494520B54 : 200
+INFO:root:Durée de l'appel pour DK94802385 : 7.385128 secondes
+INFO:root:Code HTTP pour DK94802385 : 200
+INFO:root:Durée de l'appel pour NL810191519B64 : 0.299597 secondes
+INFO:root:Code HTTP pour NL810191519B64 : 200
+INFO:root:Durée de l'appel pour FI10092359 : 3.087824 secondes
+INFO:root:Code HTTP pour FI10092359 : 200
+INFO:root:Durée de l'appel pour IT40179359886 : 0.151108 secondes
+INFO:root:Code HTTP pour IT40179359886 : 200
+INFO:root:Durée de l'appel pour LU84999040 : 0.242484 secondes
+INFO:root:Code HTTP pour LU84999040 : 200
+INFO:root:Durée de l'appel pour NL722986555B63 : 0.361426 secondes
+INFO:root:Code HTTP pour NL722986555B63 : 200
+INFO:root:Durée de l'appel pour PL6812992064 : 0.264056 secondes
+INFO:root:Code HTTP pour PL6812992064 : 200
+INFO:root:Durée de l'appel pour PT471768693 : 4.040679 secondes
+INFO:root:Code HTTP pour PT471768693 : 200
+INFO:root:Durée de l'appel pour FI10002173 : 2.662095 secondes
+INFO:root:Code HTTP pour FI10002173 : 200
+INFO:root:Durée de l'appel pour PT474014720 : 0.299474 secondes
+INFO:root:Code HTTP pour PT474014720 : 200
+INFO:root:Durée de l'appel pour FR58878591742 : 0.19786 secondes
+INFO:root:Code HTTP pour FR58878591742 : 200
+ERROR:root:Erreur VIES pour FR58878591742 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour LU27286984 : 4.008232 secondes
+INFO:root:Code HTTP pour LU27286984 : 200
+INFO:root:Durée de l'appel pour NL033157558B31 : 1.188492 secondes
+INFO:root:Code HTTP pour NL033157558B31 : 200
+INFO:root:Durée de l'appel pour SE199947332301 : 2.744218 secondes
+INFO:root:Code HTTP pour SE199947332301 : 200
+INFO:root:Durée de l'appel pour PL4924334431 : 1.954902 secondes
+INFO:root:Code HTTP pour PL4924334431 : 200
+INFO:root:Durée de l'appel pour LU23133928 : 3.324266 secondes
+INFO:root:Code HTTP pour LU23133928 : 200
+INFO:root:Durée de l'appel pour FI40900185 : 3.159358 secondes
+INFO:root:Code HTTP pour FI40900185 : 200
+INFO:root:Durée de l'appel pour PT742042260 : 1.914004 secondes
+INFO:root:Code HTTP pour PT742042260 : 200
+INFO:root:Durée de l'appel pour BE0285659852 : 1.376239 secondes
+INFO:root:Code HTTP pour BE0285659852 : 200
+INFO:root:Durée de l'appel pour FR19395773647 : 7.73001 secondes
+INFO:root:Code HTTP pour FR19395773647 : 200
+INFO:root:Durée de l'appel pour SE681670815701 : 5.364499 secondes
+INFO:root:Code HTTP pour SE681670815701 : 200
+INFO:root:Durée de l'appel pour PT653341075 : 0.548772 secondes
+INFO:root:Code HTTP pour PT653341075 : 200
+INFO:root:Durée de l'appel pour PL5025281216 : 0.154666 secondes
+INFO:root:Code HTTP pour PL5025281216 : 200
+ERROR:root:Erreur VIES pour PL5025281216 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour LU13850218 : 0.224166 secondes
+INFO:root:Code HTTP pour LU13850218 : 200
+INFO:root:Durée de l'appel pour IT09495669062 : 0.141567 secondes
+INFO:root:Code HTTP pour IT09495669062 : 200
+INFO:root:Durée de l'appel pour IT56089548640 : 0.102041 secondes
+INFO:root:Code HTTP pour IT56089548640 : 200
+INFO:root:Durée de l'appel pour FI54550294 : 0.46205 secondes
+INFO:root:Code HTTP pour FI54550294 : 200
+INFO:root:Durée de l'appel pour LU82645905 : 0.2149 secondes
+INFO:root:Code HTTP pour LU82645905 : 200
+INFO:root:Durée de l'appel pour IT48844016864 : 0.126633 secondes
+INFO:root:Code HTTP pour IT48844016864 : 200
+INFO:root:Durée de l'appel pour IT29625167399 : 0.144251 secondes
+INFO:root:Code HTTP pour IT29625167399 : 200
+INFO:root:Durée de l'appel pour PL4416495926 : 0.734296 secondes
+INFO:root:Code HTTP pour PL4416495926 : 200
+INFO:root:Durée de l'appel pour PT772064113 : 1.17507 secondes
+INFO:root:Code HTTP pour PT772064113 : 200
+INFO:root:Durée de l'appel pour LU10131533 : 0.611298 secondes
+INFO:root:Code HTTP pour LU10131533 : 200
+INFO:root:Durée de l'appel pour LU80087452 : 0.227373 secondes
+INFO:root:Code HTTP pour LU80087452 : 200
+INFO:root:Durée de l'appel pour BE0782289162 : 4.102662 secondes
+INFO:root:Code HTTP pour BE0782289162 : 200
+INFO:root:Durée de l'appel pour NL094087738B92 : 0.647696 secondes
+INFO:root:Code HTTP pour NL094087738B92 : 200
+INFO:root:Durée de l'appel pour PL1544347584 : 0.19448 secondes
+INFO:root:Code HTTP pour PL1544347584 : 200
+INFO:root:Durée de l'appel pour NL022346909B39 : 3.609484 secondes
+INFO:root:Code HTTP pour NL022346909B39 : 200
+INFO:root:Durée de l'appel pour LU40274217 : 2.67671 secondes
+INFO:root:Code HTTP pour LU40274217 : 200
+INFO:root:Durée de l'appel pour DK09119973 : 2.618303 secondes
+INFO:root:Code HTTP pour DK09119973 : 200
+INFO:root:Durée de l'appel pour SE225344012301 : 2.429786 secondes
+INFO:root:Code HTTP pour SE225344012301 : 200
+INFO:root:Durée de l'appel pour SE837861142301 : 0.565 secondes
+INFO:root:Code HTTP pour SE837861142301 : 200
+INFO:root:Durée de l'appel pour PL7079562978 : 0.665505 secondes
+INFO:root:Code HTTP pour PL7079562978 : 200
+INFO:root:Durée de l'appel pour NL527968882B27 : 0.313 secondes
+INFO:root:Code HTTP pour NL527968882B27 : 200
+INFO:root:Durée de l'appel pour NL089278458B90 : 1.388727 secondes
+INFO:root:Code HTTP pour NL089278458B90 : 200
+INFO:root:Durée de l'appel pour IT98456042575 : 0.14635 secondes
+INFO:root:Code HTTP pour IT98456042575 : 200
+INFO:root:Durée de l'appel pour BE1741774362 : 3.474298 secondes
+INFO:root:Code HTTP pour BE1741774362 : 200
+INFO:root:Durée de l'appel pour IT29475292198 : 1.052914 secondes
+INFO:root:Code HTTP pour IT29475292198 : 200
+INFO:root:Durée de l'appel pour SE639604975801 : 0.41476 secondes
+INFO:root:Code HTTP pour SE639604975801 : 200
+INFO:root:Durée de l'appel pour PT327020482 : 0.45896 secondes
+INFO:root:Code HTTP pour PT327020482 : 200
+INFO:root:Durée de l'appel pour FI25638641 : 0.43613 secondes
+INFO:root:Code HTTP pour FI25638641 : 200
+INFO:root:Durée de l'appel pour LU75603872 : 0.217646 secondes
+INFO:root:Code HTTP pour LU75603872 : 200
+INFO:root:Durée de l'appel pour FR10245922806 : 0.13142 secondes
+INFO:root:Code HTTP pour FR10245922806 : 200
+ERROR:root:Erreur VIES pour FR10245922806 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour IT30125599842 : 0.120577 secondes
+INFO:root:Code HTTP pour IT30125599842 : 200
+INFO:root:Durée de l'appel pour IT96780897581 : 0.107134 secondes
+INFO:root:Code HTTP pour IT96780897581 : 200
+INFO:root:Durée de l'appel pour IT37390513853 : 0.115905 secondes
+INFO:root:Code HTTP pour IT37390513853 : 200
+INFO:root:Durée de l'appel pour LU31040158 : 0.217872 secondes
+INFO:root:Code HTTP pour LU31040158 : 200
+ERROR:root:Erreur VIES pour LU31040158 : VALID
+INFO:root:Durée de l'appel pour SE986752847401 : 0.988835 secondes
+INFO:root:Code HTTP pour SE986752847401 : 200
+INFO:root:Durée de l'appel pour DK03841995 : 0.15453 secondes
+INFO:root:Code HTTP pour DK03841995 : 200
+INFO:root:Durée de l'appel pour PT816084173 : 0.304501 secondes
+INFO:root:Code HTTP pour PT816084173 : 200
+INFO:root:Durée de l'appel pour LU50222082 : 0.182924 secondes
+INFO:root:Code HTTP pour LU50222082 : 200
+INFO:root:Durée de l'appel pour FR78520727935 : 0.102913 secondes
+INFO:root:Code HTTP pour FR78520727935 : 200
+ERROR:root:Erreur VIES pour FR78520727935 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour IT73394580127 : 0.223767 secondes
+INFO:root:Code HTTP pour IT73394580127 : 200
+INFO:root:Durée de l'appel pour SE721035578501 : 0.478545 secondes
+INFO:root:Code HTTP pour SE721035578501 : 200
+INFO:root:Durée de l'appel pour PL5757605262 : 0.137898 secondes
+INFO:root:Code HTTP pour PL5757605262 : 200
+ERROR:root:Erreur VIES pour PL5757605262 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR65525841318 : 0.235382 secondes
+INFO:root:Code HTTP pour FR65525841318 : 200
+ERROR:root:Erreur VIES pour FR65525841318 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour NL376452936B78 : 0.945124 secondes
+INFO:root:Code HTTP pour NL376452936B78 : 200
+INFO:root:Durée de l'appel pour PL9456980487 : 0.203911 secondes
+INFO:root:Code HTTP pour PL9456980487 : 200
+INFO:root:Durée de l'appel pour BE1785937274 : 0.135157 secondes
+INFO:root:Code HTTP pour BE1785937274 : 200
+ERROR:root:Erreur VIES pour BE1785937274 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour IT09308212639 : 0.427682 secondes
+INFO:root:Code HTTP pour IT09308212639 : 200
+INFO:root:Durée de l'appel pour FI01319558 : 0.857593 secondes
+INFO:root:Code HTTP pour FI01319558 : 200
+INFO:root:Durée de l'appel pour DK65551772 : 8.056299 secondes
+INFO:root:Code HTTP pour DK65551772 : 200
+INFO:root:Durée de l'appel pour SE705909023801 : 0.558097 secondes
+INFO:root:Code HTTP pour SE705909023801 : 200
+INFO:root:Durée de l'appel pour NL192745001B59 : 0.433911 secondes
+INFO:root:Code HTTP pour NL192745001B59 : 200
+INFO:root:Durée de l'appel pour DK72404769 : 7.688176 secondes
+INFO:root:Code HTTP pour DK72404769 : 200
+INFO:root:Durée de l'appel pour SE370633672801 : 1.542177 secondes
+INFO:root:Code HTTP pour SE370633672801 : 200
+INFO:root:Durée de l'appel pour FR91651820303 : 0.156982 secondes
+INFO:root:Code HTTP pour FR91651820303 : 200
+ERROR:root:Erreur VIES pour FR91651820303 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour IT05558285267 : 0.237835 secondes
+INFO:root:Code HTTP pour IT05558285267 : 200
+INFO:root:Durée de l'appel pour FR23681286229 : 0.122945 secondes
+INFO:root:Code HTTP pour FR23681286229 : 200
+ERROR:root:Erreur VIES pour FR23681286229 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour BE1765259547 : 4.334843 secondes
+INFO:root:Code HTTP pour BE1765259547 : 200
+INFO:root:Durée de l'appel pour DK31680867 : 7.048876 secondes
+INFO:root:Code HTTP pour DK31680867 : 200
+INFO:root:Durée de l'appel pour SE325301901601 : 0.685265 secondes
+INFO:root:Code HTTP pour SE325301901601 : 200
+INFO:root:Durée de l'appel pour LU11786832 : 0.220948 secondes
+INFO:root:Code HTTP pour LU11786832 : 200
+INFO:root:Durée de l'appel pour PL9694290163 : 0.287647 secondes
+INFO:root:Code HTTP pour PL9694290163 : 200
+ERROR:root:Erreur de connexion VIES pour FR11950538631 : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+INFO:root:Durée de l'appel pour FI12636655 : 2.029285 secondes
+INFO:root:Code HTTP pour FI12636655 : 200
+INFO:root:Durée de l'appel pour BE1738201297 : 0.156301 secondes
+INFO:root:Code HTTP pour BE1738201297 : 200
+ERROR:root:Erreur VIES pour BE1738201297 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FI38276977 : 1.597167 secondes
+INFO:root:Code HTTP pour FI38276977 : 200
+INFO:root:Durée de l'appel pour SE322832968001 : 0.473833 secondes
+INFO:root:Code HTTP pour SE322832968001 : 200
+INFO:root:Durée de l'appel pour PL5286389970 : 0.683436 secondes
+INFO:root:Code HTTP pour PL5286389970 : 200
+INFO:root:Durée de l'appel pour PL7140494709 : 0.923831 secondes
+INFO:root:Code HTTP pour PL7140494709 : 200
+INFO:root:Durée de l'appel pour FR68474874997 : 0.1394 secondes
+INFO:root:Code HTTP pour FR68474874997 : 200
+ERROR:root:Erreur VIES pour FR68474874997 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR57334847798 : 0.143202 secondes
+INFO:root:Code HTTP pour FR57334847798 : 200
+ERROR:root:Erreur VIES pour FR57334847798 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FI18494715 : 0.791756 secondes
+INFO:root:Code HTTP pour FI18494715 : 200
+ERROR:root:Erreur VIES pour FI18494715 : VALID
+INFO:root:Durée de l'appel pour BE0990245383 : 1.829358 secondes
+INFO:root:Code HTTP pour BE0990245383 : 200
+INFO:root:Durée de l'appel pour SE190525079901 : 0.77945 secondes
+INFO:root:Code HTTP pour SE190525079901 : 200
+INFO:root:Durée de l'appel pour LU20650626 : 0.228893 secondes
+INFO:root:Code HTTP pour LU20650626 : 200
+ERROR:root:Erreur VIES pour LU20650626 : VALID
+INFO:root:Durée de l'appel pour PL1171305698 : 0.457348 secondes
+INFO:root:Code HTTP pour PL1171305698 : 200
+INFO:root:Durée de l'appel pour PL6609256310 : 0.150047 secondes
+INFO:root:Code HTTP pour PL6609256310 : 200
+ERROR:root:Erreur VIES pour PL6609256310 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR65725972591 : 0.117465 secondes
+INFO:root:Code HTTP pour FR65725972591 : 200
+ERROR:root:Erreur VIES pour FR65725972591 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR57178758017 : 0.149353 secondes
+INFO:root:Code HTTP pour FR57178758017 : 200
+ERROR:root:Erreur VIES pour FR57178758017 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FI96091436 : 0.455122 secondes
+INFO:root:Code HTTP pour FI96091436 : 200
+ERROR:root:Erreur de connexion VIES pour DK72875419 : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+INFO:root:Durée de l'appel pour PT442624530 : 0.413189 secondes
+INFO:root:Code HTTP pour PT442624530 : 200
+INFO:root:Durée de l'appel pour SE746785963801 : 0.349174 secondes
+INFO:root:Code HTTP pour SE746785963801 : 200
+INFO:root:Durée de l'appel pour FR14848248737 : 0.162982 secondes
+INFO:root:Code HTTP pour FR14848248737 : 200
+ERROR:root:Erreur VIES pour FR14848248737 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour DK13056994 : 7.225314 secondes
+INFO:root:Code HTTP pour DK13056994 : 200
+INFO:root:Durée de l'appel pour SE117804039801 : 0.592178 secondes
+INFO:root:Code HTTP pour SE117804039801 : 200
+INFO:root:Durée de l'appel pour LU78287531 : 0.201024 secondes
+INFO:root:Code HTTP pour LU78287531 : 200
+INFO:root:Durée de l'appel pour IT32818563101 : 0.148669 secondes
+INFO:root:Code HTTP pour IT32818563101 : 200
+INFO:root:Durée de l'appel pour FI45392722 : 0.34404 secondes
+INFO:root:Code HTTP pour FI45392722 : 200
+INFO:root:Durée de l'appel pour BE0444280289 : 0.118165 secondes
+INFO:root:Code HTTP pour BE0444280289 : 200
+ERROR:root:Erreur VIES pour BE0444280289 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour PT765930536 : 0.344071 secondes
+INFO:root:Code HTTP pour PT765930536 : 200
+INFO:root:Durée de l'appel pour FI29579597 : 0.383671 secondes
+INFO:root:Code HTTP pour FI29579597 : 200
+ERROR:root:Erreur VIES pour FI29579597 : VALID
+INFO:root:Durée de l'appel pour DK68848016 : 4.315867 secondes
+INFO:root:Code HTTP pour DK68848016 : 200
+INFO:root:Durée de l'appel pour LU66660483 : 0.186652 secondes
+INFO:root:Code HTTP pour LU66660483 : 200
+INFO:root:Durée de l'appel pour PT843052716 : 0.561779 secondes
+INFO:root:Code HTTP pour PT843052716 : 200
+INFO:root:Durée de l'appel pour FI42022718 : 0.751212 secondes
+INFO:root:Code HTTP pour FI42022718 : 200
+INFO:root:Durée de l'appel pour NL917547317B75 : 0.311016 secondes
+INFO:root:Code HTTP pour NL917547317B75 : 200
+INFO:root:Durée de l'appel pour SE130298964301 : 0.79018 secondes
+INFO:root:Code HTTP pour SE130298964301 : 200
+INFO:root:Durée de l'appel pour FI22544797 : 0.400514 secondes
+INFO:root:Code HTTP pour FI22544797 : 200
+ERROR:root:Erreur VIES pour FI22544797 : VALID
+INFO:root:Durée de l'appel pour SE904926874201 : 0.964139 secondes
+INFO:root:Code HTTP pour SE904926874201 : 200
+INFO:root:Durée de l'appel pour FI84463503 : 0.558185 secondes
+INFO:root:Code HTTP pour FI84463503 : 200
+INFO:root:Durée de l'appel pour LU33448119 : 0.248673 secondes
+INFO:root:Code HTTP pour LU33448119 : 200
+INFO:root:Durée de l'appel pour BE0935474829 : 1.606462 secondes
+INFO:root:Code HTTP pour BE0935474829 : 200
+INFO:root:Durée de l'appel pour LU29927860 : 0.289142 secondes
+INFO:root:Code HTTP pour LU29927860 : 200
+INFO:root:Durée de l'appel pour LU23413363 : 0.407177 secondes
+INFO:root:Code HTTP pour LU23413363 : 200
+ERROR:root:Erreur VIES pour LU23413363 : VALID
+INFO:root:Durée de l'appel pour DK14811648 : 9.467545 secondes
+INFO:root:Code HTTP pour DK14811648 : 200
+INFO:root:Durée de l'appel pour BE0868528892 : 3.13128 secondes
+INFO:root:Code HTTP pour BE0868528892 : 200
+INFO:root:Durée de l'appel pour FR27683525055 : 0.178184 secondes
+INFO:root:Code HTTP pour FR27683525055 : 200
+ERROR:root:Erreur VIES pour FR27683525055 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour PL5829044650 : 0.698294 secondes
+INFO:root:Code HTTP pour PL5829044650 : 200
+INFO:root:Durée de l'appel pour LU89440241 : 0.207447 secondes
+INFO:root:Code HTTP pour LU89440241 : 200
+INFO:root:Durée de l'appel pour IT19567733514 : 0.17439 secondes
+INFO:root:Code HTTP pour IT19567733514 : 200
+INFO:root:Durée de l'appel pour PL3788848846 : 1.668405 secondes
+INFO:root:Code HTTP pour PL3788848846 : 200
+INFO:root:Durée de l'appel pour DK97433836 : 4.849389 secondes
+INFO:root:Code HTTP pour DK97433836 : 200
+INFO:root:Durée de l'appel pour DK96676549 : 5.111107 secondes
+INFO:root:Code HTTP pour DK96676549 : 200
+INFO:root:Durée de l'appel pour BE0243720022 : 1.663646 secondes
+INFO:root:Code HTTP pour BE0243720022 : 200
+INFO:root:Durée de l'appel pour PT692782265 : 0.433042 secondes
+INFO:root:Code HTTP pour PT692782265 : 200
+INFO:root:Durée de l'appel pour SE463792797301 : 0.681794 secondes
+INFO:root:Code HTTP pour SE463792797301 : 200
+INFO:root:Durée de l'appel pour LU75705521 : 0.29336 secondes
+INFO:root:Code HTTP pour LU75705521 : 200
+INFO:root:Durée de l'appel pour IT10025467258 : 0.171684 secondes
+INFO:root:Code HTTP pour IT10025467258 : 200
+INFO:root:Durée de l'appel pour PL9909614413 : 0.237511 secondes
+INFO:root:Code HTTP pour PL9909614413 : 200
+INFO:root:Durée de l'appel pour FR69149446949 : 0.159972 secondes
+INFO:root:Code HTTP pour FR69149446949 : 200
+ERROR:root:Erreur VIES pour FR69149446949 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour PL3611432397 : 0.968755 secondes
+INFO:root:Code HTTP pour PL3611432397 : 200
+INFO:root:Durée de l'appel pour BE0716419234 : 0.998994 secondes
+INFO:root:Code HTTP pour BE0716419234 : 200
+INFO:root:Durée de l'appel pour NL965397671B97 : 0.49079 secondes
+INFO:root:Code HTTP pour NL965397671B97 : 200
+INFO:root:Durée de l'appel pour SE015420570201 : 0.420202 secondes
+INFO:root:Code HTTP pour SE015420570201 : 200
+INFO:root:Durée de l'appel pour NL663988378B40 : 1.722016 secondes
+INFO:root:Code HTTP pour NL663988378B40 : 200
+INFO:root:Durée de l'appel pour PT813740940 : 0.374783 secondes
+INFO:root:Code HTTP pour PT813740940 : 200
+INFO:root:Durée de l'appel pour LU92774913 : 0.223425 secondes
+INFO:root:Code HTTP pour LU92774913 : 200
+INFO:root:Durée de l'appel pour LU45829332 : 0.213297 secondes
+INFO:root:Code HTTP pour LU45829332 : 200
+INFO:root:Durée de l'appel pour FR59625038172 : 0.112785 secondes
+INFO:root:Code HTTP pour FR59625038172 : 200
+ERROR:root:Erreur VIES pour FR59625038172 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour DK57223375 : 7.597713 secondes
+INFO:root:Code HTTP pour DK57223375 : 200
+INFO:root:Durée de l'appel pour PL9092307922 : 0.22823 secondes
+INFO:root:Code HTTP pour PL9092307922 : 200
+INFO:root:Durée de l'appel pour NL593988346B91 : 0.511663 secondes
+INFO:root:Code HTTP pour NL593988346B91 : 200
+INFO:root:Durée de l'appel pour SE169134877301 : 0.371096 secondes
+INFO:root:Code HTTP pour SE169134877301 : 200
+INFO:root:Durée de l'appel pour FI69346616 : 0.312015 secondes
+INFO:root:Code HTTP pour FI69346616 : 200
+INFO:root:Durée de l'appel pour NL412012364B76 : 0.249198 secondes
+INFO:root:Code HTTP pour NL412012364B76 : 200
+INFO:root:Durée de l'appel pour IT15747025128 : 0.107613 secondes
+INFO:root:Code HTTP pour IT15747025128 : 200
+INFO:root:Durée de l'appel pour SE993954040801 : 0.650223 secondes
+INFO:root:Code HTTP pour SE993954040801 : 200
+INFO:root:Durée de l'appel pour FR22180441796 : 0.161867 secondes
+INFO:root:Code HTTP pour FR22180441796 : 200
+ERROR:root:Erreur VIES pour FR22180441796 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour NL932361444B03 : 0.343791 secondes
+INFO:root:Code HTTP pour NL932361444B03 : 200
+INFO:root:Durée de l'appel pour PT356364518 : 0.48399 secondes
+INFO:root:Code HTTP pour PT356364518 : 200
+INFO:root:Durée de l'appel pour PT576298999 : 0.75557 secondes
+INFO:root:Code HTTP pour PT576298999 : 200
+INFO:root:Durée de l'appel pour PT663575389 : 0.922925 secondes
+INFO:root:Code HTTP pour PT663575389 : 200
+INFO:root:Durée de l'appel pour FR63802503133 : 0.153054 secondes
+INFO:root:Code HTTP pour FR63802503133 : 200
+ERROR:root:Erreur VIES pour FR63802503133 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour SE355508328001 : 0.62893 secondes
+INFO:root:Code HTTP pour SE355508328001 : 200
+INFO:root:Durée de l'appel pour FR16857084403 : 8.517867 secondes
+INFO:root:Code HTTP pour FR16857084403 : 200
+INFO:root:Durée de l'appel pour IT56118019902 : 0.143009 secondes
+INFO:root:Code HTTP pour IT56118019902 : 200
+INFO:root:Durée de l'appel pour LU85531525 : 0.224778 secondes
+INFO:root:Code HTTP pour LU85531525 : 200
+INFO:root:Durée de l'appel pour LU77230855 : 0.244189 secondes
+INFO:root:Code HTTP pour LU77230855 : 200
+INFO:root:Durée de l'appel pour BE0676154930 : 3.109044 secondes
+INFO:root:Code HTTP pour BE0676154930 : 200
+ERROR:root:Erreur de connexion VIES pour BE0440832930 : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+INFO:root:Durée de l'appel pour NL337703371B32 : 0.394945 secondes
+INFO:root:Code HTTP pour NL337703371B32 : 200
+INFO:root:Durée de l'appel pour FR27552032534 : 0.140272 secondes
+INFO:root:Code HTTP pour FR27552032534 : 200
+ERROR:root:Erreur VIES pour FR27552032534 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour NL004691623B74 : 0.301867 secondes
+INFO:root:Code HTTP pour NL004691623B74 : 200
+INFO:root:Durée de l'appel pour BE1588046089 : 0.15649 secondes
+INFO:root:Code HTTP pour BE1588046089 : 200
+ERROR:root:Erreur VIES pour BE1588046089 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour PT705557510 : 0.403699 secondes
+INFO:root:Code HTTP pour PT705557510 : 200
+INFO:root:Fin de la collecte
+INFO:root:Début de la collecte
+INFO:root:Numéro déjà vérifié : DK28547277
+INFO:root:Numéro déjà vérifié : PT244701962
+INFO:root:Numéro déjà vérifié : PT450308413
+ERROR:root:Erreur de connexion VIES pour DK50549151 : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+INFO:root:Durée de l'appel pour FR00209754542 : 0.31221 secondes
+INFO:root:Code HTTP pour FR00209754542 : 200
+ERROR:root:Erreur VIES pour FR00209754542 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : NL124917823B86
+INFO:root:Numéro déjà vérifié : PT613111575
+INFO:root:Durée de l'appel pour FI27000844 : 0.630465 secondes
+INFO:root:Code HTTP pour FI27000844 : 200
+INFO:root:Numéro déjà vérifié : SE719592036301
+INFO:root:Numéro déjà vérifié : BE1362618782
+INFO:root:Numéro déjà vérifié : SE166457363901
+INFO:root:Durée de l'appel pour FR88193062003 : 0.200888 secondes
+INFO:root:Code HTTP pour FR88193062003 : 200
+ERROR:root:Erreur VIES pour FR88193062003 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR89874852564 : 0.385057 secondes
+INFO:root:Code HTTP pour FR89874852564 : 200
+ERROR:root:Erreur VIES pour FR89874852564 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : FI98757502
+INFO:root:Numéro déjà vérifié : PL2079928678
+INFO:root:Numéro déjà vérifié : PL8719507731
+INFO:root:Numéro déjà vérifié : LU17062613
+INFO:root:Numéro déjà vérifié : PT451244796
+INFO:root:Numéro déjà vérifié : PL6040358722
+INFO:root:Numéro déjà vérifié : NL743677031B50
+INFO:root:Numéro déjà vérifié : PL7706776865
+INFO:root:Numéro déjà vérifié : NL991494520B54
+INFO:root:Numéro déjà vérifié : DK94802385
+INFO:root:Numéro déjà vérifié : NL810191519B64
+INFO:root:Numéro déjà vérifié : FI10092359
+INFO:root:Numéro déjà vérifié : IT40179359886
+INFO:root:Numéro déjà vérifié : LU84999040
+INFO:root:Numéro déjà vérifié : NL722986555B63
+INFO:root:Numéro déjà vérifié : PL6812992064
+INFO:root:Numéro déjà vérifié : PT471768693
+INFO:root:Numéro déjà vérifié : FI10002173
+INFO:root:Numéro déjà vérifié : PT474014720
+INFO:root:Durée de l'appel pour FR58878591742 : 0.157425 secondes
+INFO:root:Code HTTP pour FR58878591742 : 200
+ERROR:root:Erreur VIES pour FR58878591742 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : LU27286984
+INFO:root:Numéro déjà vérifié : NL033157558B31
+INFO:root:Numéro déjà vérifié : SE199947332301
+INFO:root:Numéro déjà vérifié : PL4924334431
+INFO:root:Numéro déjà vérifié : LU23133928
+INFO:root:Numéro déjà vérifié : FI40900185
+INFO:root:Numéro déjà vérifié : PT742042260
+INFO:root:Numéro déjà vérifié : BE0285659852
+INFO:root:Numéro déjà vérifié : FR19395773647
+INFO:root:Numéro déjà vérifié : SE681670815701
+INFO:root:Numéro déjà vérifié : PT653341075
+INFO:root:Durée de l'appel pour PL5025281216 : 0.928106 secondes
+INFO:root:Code HTTP pour PL5025281216 : 200
+INFO:root:Numéro déjà vérifié : LU13850218
+INFO:root:Numéro déjà vérifié : IT09495669062
+INFO:root:Numéro déjà vérifié : IT56089548640
+INFO:root:Numéro déjà vérifié : FI54550294
+INFO:root:Numéro déjà vérifié : LU82645905
+INFO:root:Numéro déjà vérifié : IT48844016864
+INFO:root:Numéro déjà vérifié : IT29625167399
+INFO:root:Numéro déjà vérifié : PL4416495926
+INFO:root:Numéro déjà vérifié : PT772064113
+INFO:root:Numéro déjà vérifié : LU10131533
+INFO:root:Numéro déjà vérifié : LU80087452
+INFO:root:Numéro déjà vérifié : BE0782289162
+INFO:root:Numéro déjà vérifié : NL094087738B92
+INFO:root:Numéro déjà vérifié : PL1544347584
+INFO:root:Numéro déjà vérifié : NL022346909B39
+INFO:root:Numéro déjà vérifié : LU40274217
+INFO:root:Numéro déjà vérifié : DK09119973
+INFO:root:Numéro déjà vérifié : SE225344012301
+INFO:root:Numéro déjà vérifié : SE837861142301
+INFO:root:Numéro déjà vérifié : PL7079562978
+INFO:root:Numéro déjà vérifié : NL527968882B27
+INFO:root:Numéro déjà vérifié : NL089278458B90
+INFO:root:Numéro déjà vérifié : IT98456042575
+INFO:root:Numéro déjà vérifié : BE1741774362
+INFO:root:Numéro déjà vérifié : IT29475292198
+INFO:root:Numéro déjà vérifié : SE639604975801
+INFO:root:Numéro déjà vérifié : PT327020482
+INFO:root:Numéro déjà vérifié : FI25638641
+INFO:root:Numéro déjà vérifié : LU75603872
+INFO:root:Durée de l'appel pour FR10245922806 : 10.026076 secondes
+INFO:root:Code HTTP pour FR10245922806 : 200
+INFO:root:Numéro déjà vérifié : IT30125599842
+INFO:root:Numéro déjà vérifié : IT96780897581
+INFO:root:Numéro déjà vérifié : IT37390513853
+INFO:root:Durée de l'appel pour LU31040158 : 0.242786 secondes
+INFO:root:Code HTTP pour LU31040158 : 200
+INFO:root:Numéro déjà vérifié : SE986752847401
+INFO:root:Numéro déjà vérifié : DK03841995
+INFO:root:Numéro déjà vérifié : PT816084173
+INFO:root:Numéro déjà vérifié : LU50222082
+INFO:root:Durée de l'appel pour FR78520727935 : 0.147581 secondes
+INFO:root:Code HTTP pour FR78520727935 : 200
+ERROR:root:Erreur VIES pour FR78520727935 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : IT73394580127
+INFO:root:Numéro déjà vérifié : SE721035578501
+INFO:root:Durée de l'appel pour PL5757605262 : 0.157378 secondes
+INFO:root:Code HTTP pour PL5757605262 : 200
+ERROR:root:Erreur VIES pour PL5757605262 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR65525841318 : 0.1892 secondes
+INFO:root:Code HTTP pour FR65525841318 : 200
+ERROR:root:Erreur VIES pour FR65525841318 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : NL376452936B78
+INFO:root:Numéro déjà vérifié : PL9456980487
+INFO:root:Durée de l'appel pour BE1785937274 : 2.931504 secondes
+INFO:root:Code HTTP pour BE1785937274 : 200
+INFO:root:Numéro déjà vérifié : IT09308212639
+INFO:root:Numéro déjà vérifié : FI01319558
+INFO:root:Numéro déjà vérifié : DK65551772
+INFO:root:Numéro déjà vérifié : SE705909023801
+INFO:root:Numéro déjà vérifié : NL192745001B59
+INFO:root:Numéro déjà vérifié : DK72404769
+INFO:root:Numéro déjà vérifié : SE370633672801
+INFO:root:Durée de l'appel pour FR91651820303 : 0.182066 secondes
+INFO:root:Code HTTP pour FR91651820303 : 200
+ERROR:root:Erreur VIES pour FR91651820303 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : IT05558285267
+INFO:root:Durée de l'appel pour FR23681286229 : 0.159056 secondes
+INFO:root:Code HTTP pour FR23681286229 : 200
+ERROR:root:Erreur VIES pour FR23681286229 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : BE1765259547
+INFO:root:Numéro déjà vérifié : DK31680867
+INFO:root:Numéro déjà vérifié : SE325301901601
+INFO:root:Numéro déjà vérifié : LU11786832
+INFO:root:Numéro déjà vérifié : PL9694290163
+INFO:root:Durée de l'appel pour FR11950538631 : 0.397901 secondes
+INFO:root:Code HTTP pour FR11950538631 : 200
+ERROR:root:Erreur VIES pour FR11950538631 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : FI12636655
+INFO:root:Durée de l'appel pour BE1738201297 : 4.32608 secondes
+INFO:root:Code HTTP pour BE1738201297 : 200
+INFO:root:Numéro déjà vérifié : FI38276977
+INFO:root:Numéro déjà vérifié : SE322832968001
+INFO:root:Numéro déjà vérifié : PL5286389970
+INFO:root:Numéro déjà vérifié : PL7140494709
+INFO:root:Durée de l'appel pour FR68474874997 : 0.164006 secondes
+INFO:root:Code HTTP pour FR68474874997 : 200
+ERROR:root:Erreur VIES pour FR68474874997 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR57334847798 : 0.244556 secondes
+INFO:root:Code HTTP pour FR57334847798 : 200
+ERROR:root:Erreur VIES pour FR57334847798 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FI18494715 : 0.412404 secondes
+INFO:root:Code HTTP pour FI18494715 : 200
+INFO:root:Numéro déjà vérifié : BE0990245383
+INFO:root:Numéro déjà vérifié : SE190525079901
+INFO:root:Durée de l'appel pour LU20650626 : 0.36352 secondes
+INFO:root:Code HTTP pour LU20650626 : 200
+INFO:root:Numéro déjà vérifié : PL1171305698
+INFO:root:Durée de l'appel pour PL6609256310 : 0.458824 secondes
+INFO:root:Code HTTP pour PL6609256310 : 200
+INFO:root:Durée de l'appel pour FR65725972591 : 0.156991 secondes
+INFO:root:Code HTTP pour FR65725972591 : 200
+ERROR:root:Erreur VIES pour FR65725972591 : MS_MAX_CONCURRENT_REQ
+INFO:root:Durée de l'appel pour FR57178758017 : 0.177332 secondes
+INFO:root:Code HTTP pour FR57178758017 : 200
+ERROR:root:Erreur VIES pour FR57178758017 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : FI96091436
+INFO:root:Durée de l'appel pour DK72875419 : 9.016237 secondes
+INFO:root:Code HTTP pour DK72875419 : 200
+INFO:root:Numéro déjà vérifié : PT442624530
+INFO:root:Numéro déjà vérifié : SE746785963801
+INFO:root:Durée de l'appel pour FR14848248737 : 0.149079 secondes
+INFO:root:Code HTTP pour FR14848248737 : 200
+ERROR:root:Erreur VIES pour FR14848248737 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : DK13056994
+INFO:root:Numéro déjà vérifié : SE117804039801
+INFO:root:Numéro déjà vérifié : LU78287531
+INFO:root:Numéro déjà vérifié : IT32818563101
+INFO:root:Numéro déjà vérifié : FI45392722
+INFO:root:Durée de l'appel pour BE0444280289 : 0.155829 secondes
+INFO:root:Code HTTP pour BE0444280289 : 200
+ERROR:root:Erreur VIES pour BE0444280289 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : PT765930536
+INFO:root:Durée de l'appel pour FI29579597 : 1.009728 secondes
+INFO:root:Code HTTP pour FI29579597 : 200
+INFO:root:Numéro déjà vérifié : DK68848016
+INFO:root:Numéro déjà vérifié : LU66660483
+INFO:root:Numéro déjà vérifié : PT843052716
+INFO:root:Numéro déjà vérifié : FI42022718
+INFO:root:Numéro déjà vérifié : NL917547317B75
+INFO:root:Numéro déjà vérifié : SE130298964301
+INFO:root:Durée de l'appel pour FI22544797 : 0.529088 secondes
+INFO:root:Code HTTP pour FI22544797 : 200
+INFO:root:Numéro déjà vérifié : SE904926874201
+INFO:root:Numéro déjà vérifié : FI84463503
+INFO:root:Numéro déjà vérifié : LU33448119
+INFO:root:Numéro déjà vérifié : BE0935474829
+INFO:root:Numéro déjà vérifié : LU29927860
+INFO:root:Durée de l'appel pour LU23413363 : 0.214449 secondes
+INFO:root:Code HTTP pour LU23413363 : 200
+INFO:root:Numéro déjà vérifié : DK14811648
+INFO:root:Numéro déjà vérifié : BE0868528892
+INFO:root:Durée de l'appel pour FR27683525055 : 0.120656 secondes
+INFO:root:Code HTTP pour FR27683525055 : 200
+ERROR:root:Erreur VIES pour FR27683525055 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : PL5829044650
+INFO:root:Numéro déjà vérifié : LU89440241
+INFO:root:Numéro déjà vérifié : IT19567733514
+INFO:root:Numéro déjà vérifié : PL3788848846
+INFO:root:Numéro déjà vérifié : DK97433836
+INFO:root:Numéro déjà vérifié : DK96676549
+INFO:root:Numéro déjà vérifié : BE0243720022
+INFO:root:Numéro déjà vérifié : PT692782265
+INFO:root:Numéro déjà vérifié : SE463792797301
+INFO:root:Numéro déjà vérifié : LU75705521
+INFO:root:Numéro déjà vérifié : IT10025467258
+INFO:root:Numéro déjà vérifié : PL9909614413
+INFO:root:Durée de l'appel pour FR69149446949 : 0.120831 secondes
+INFO:root:Code HTTP pour FR69149446949 : 200
+ERROR:root:Erreur VIES pour FR69149446949 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : PL3611432397
+INFO:root:Numéro déjà vérifié : BE0716419234
+INFO:root:Numéro déjà vérifié : NL965397671B97
+INFO:root:Numéro déjà vérifié : SE015420570201
+INFO:root:Numéro déjà vérifié : NL663988378B40
+INFO:root:Numéro déjà vérifié : PT813740940
+INFO:root:Numéro déjà vérifié : LU92774913
+INFO:root:Numéro déjà vérifié : LU45829332
+INFO:root:Durée de l'appel pour FR59625038172 : 8.402237 secondes
+INFO:root:Code HTTP pour FR59625038172 : 200
+INFO:root:Numéro déjà vérifié : DK57223375
+INFO:root:Numéro déjà vérifié : PL9092307922
+INFO:root:Numéro déjà vérifié : NL593988346B91
+INFO:root:Numéro déjà vérifié : SE169134877301
+INFO:root:Numéro déjà vérifié : FI69346616
+INFO:root:Numéro déjà vérifié : NL412012364B76
+INFO:root:Numéro déjà vérifié : IT15747025128
+INFO:root:Numéro déjà vérifié : SE993954040801
+INFO:root:Durée de l'appel pour FR22180441796 : 0.111017 secondes
+INFO:root:Code HTTP pour FR22180441796 : 200
+ERROR:root:Erreur VIES pour FR22180441796 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : NL932361444B03
+INFO:root:Numéro déjà vérifié : PT356364518
+INFO:root:Numéro déjà vérifié : PT576298999
+INFO:root:Numéro déjà vérifié : PT663575389
+INFO:root:Durée de l'appel pour FR63802503133 : 0.106659 secondes
+INFO:root:Code HTTP pour FR63802503133 : 200
+ERROR:root:Erreur VIES pour FR63802503133 : MS_MAX_CONCURRENT_REQ
+INFO:root:Numéro déjà vérifié : SE355508328001
+INFO:root:Numéro déjà vérifié : FR16857084403
+INFO:root:Numéro déjà vérifié : IT56118019902
+INFO:root:Numéro déjà vérifié : LU85531525
+INFO:root:Numéro déjà vérifié : LU77230855
+INFO:root:Numéro déjà vérifié : BE0676154930
+INFO:root:Durée de l'appel pour BE0440832930 : 3.505801 secondes
+INFO:root:Code HTTP pour BE0440832930 : 200
+INFO:root:Numéro déjà vérifié : NL337703371B32
+INFO:root:Durée de l'appel pour FR27552032534 : 8.908822 secondes
+INFO:root:Code HTTP pour FR27552032534 : 200
+INFO:root:Numéro déjà vérifié : NL004691623B74
+INFO:root:Durée de l'appel pour BE1588046089 : 4.174029 secondes
+INFO:root:Code HTTP pour BE1588046089 : 200
+INFO:root:Numéro déjà vérifié : PT705557510
+INFO:root:Fin de la collecte

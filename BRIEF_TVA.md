@@ -2,16 +2,16 @@
 
 ## Informations
 
-| Critère | Valeur |
-|---------|--------|
-| **Durée** | 2 jours (14 heures) — **J1 et J2** |
-| **Niveau** | Intermédiaire |
-| **Modalité** | Individuel |
-| **Positionnement** | Brief autonome, à poser en Phase 3 (après [S20 — Extraction multi-sources](../briefs-hebdo/semaine-20-extraction-multisources.md)) |
-| **Technologies** | Python 3, pandas, requests, Jupyter Notebook, matplotlib ou seaborn, Git/GitHub |
-| **Prérequis** | [Modules et API en Python](../../../01-Fondamentaux/Python/Niveau-1/00-Parcours-Progressif/09-modules-api/) · [Collecte de données](../../../15-Business-Intelligence/14-Collecte-Donnees/) · [Nettoyage des données](../../../15-Business-Intelligence/16-Nettoyage-Donnees/) · [Analyse exploratoire](../../../15-Business-Intelligence/04-Analyse-Exploratoire-EDA/) |
-| **Données** | **10 000 numéros de TVA**, fournis dans `starter-kit/data/` |
-| **Service externe** | **VIES**, le registre officiel de la Commission européenne (API REST publique, gratuite, sans clé) |
+| Critère             | Valeur                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Durée**           | 2 jours (14 heures) — **J1 et J2**                                                                                                                                                                                                                                                                                                                                      |
+| **Niveau**          | Intermédiaire                                                                                                                                                                                                                                                                                                                                                           |
+| **Modalité**        | Individuel                                                                                                                                                                                                                                                                                                                                                              |
+| **Positionnement**  | Brief autonome, à poser en Phase 3 (après [S20 — Extraction multi-sources](../briefs-hebdo/semaine-20-extraction-multisources.md))                                                                                                                                                                                                                                      |
+| **Technologies**    | Python 3, pandas, requests, Jupyter Notebook, matplotlib ou seaborn, Git/GitHub                                                                                                                                                                                                                                                                                         |
+| **Prérequis**       | [Modules et API en Python](../../../01-Fondamentaux/Python/Niveau-1/00-Parcours-Progressif/09-modules-api/) · [Collecte de données](../../../15-Business-Intelligence/14-Collecte-Donnees/) · [Nettoyage des données](../../../15-Business-Intelligence/16-Nettoyage-Donnees/) · [Analyse exploratoire](../../../15-Business-Intelligence/04-Analyse-Exploratoire-EDA/) |
+| **Données**         | **10 000 numéros de TVA**, fournis dans `starter-kit/data/`                                                                                                                                                                                                                                                                                                             |
+| **Service externe** | **VIES**, le registre officiel de la Commission européenne (API REST publique, gratuite, sans clé)                                                                                                                                                                                                                                                                      |
 
 ## Compétences visées
 

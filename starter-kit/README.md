@@ -13,14 +13,14 @@ pip install pandas openpyxl requests matplotlib jupyter
 `data/numeros_tva.csv` et `data/numeros_tva.xlsx` contiennent **les mêmes 10 000 lignes**.
 Les deux formats sont fournis volontairement : comparez-les avant de choisir.
 
-| Colonne | Description |
-|---|---|
-| `id` | identifiant de ligne, 1 à 10 000 |
-| `raison_sociale` | nom du client tel qu'enregistré |
-| `pays_declare` | pays saisi dans le CRM — **pas toujours cohérent avec le numéro** |
-| `numero_tva` | le numéro **tel qu'il a été saisi**, sans aucun nettoyage |
-| `date_saisie` | date d'entrée dans le référentiel |
-| `source_saisie` | canal d'origine : `crm`, `import_fournisseur`, `saisie_manuelle`, `portail_client`, `reprise_erp` |
+| Colonne          | Description                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| `id`             | identifiant de ligne, 1 à 10 000                                                                  |
+| `raison_sociale` | nom du client tel qu'enregistré                                                                   |
+| `pays_declare`   | pays saisi dans le CRM — **pas toujours cohérent avec le numéro**                                 |
+| `numero_tva`     | le numéro **tel qu'il a été saisi**, sans aucun nettoyage                                         |
+| `date_saisie`    | date d'entrée dans le référentiel                                                                 |
+| `source_saisie`  | canal d'origine : `crm`, `import_fournisseur`, `saisie_manuelle`, `portail_client`, `reprise_erp` |
 
 Le jeu couvre dix États membres. Il mêle des numéros corrects, des numéros mal saisis mais
 récupérables, et des numéros réellement fautifs. Les proportions ne vous sont pas données :
